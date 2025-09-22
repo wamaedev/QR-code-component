@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [http://localhost:5500/#](https://your-solution-url.com)
+- Solution URL: [https://github.com/wamaedev/QR-code-component](https://your-solution-url.com)
 - Live Site URL: [https://qr-code-component-ten-flame.vercel.app/](https://qr-code-component-ten-flame.vercel.app/)
 
 ## My process
