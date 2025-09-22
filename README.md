@@ -15,7 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -26,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://qr-code-component-ten-flame.vercel.app/)
+- Solution URL: [http://localhost:5500/#](https://your-solution-url.com)
+- Live Site URL: [https://qr-code-component-ten-flame.vercel.app/](https://qr-code-component-ten-flame.vercel.app/)
 
 ## My process
 
